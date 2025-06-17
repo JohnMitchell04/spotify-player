@@ -377,6 +377,7 @@ List of supported commands:
 | `MovePlaylistItemDown`         | move playlist item down one position                              | `C-j`              |
 | `CreatePlaylist`               | create a new playlist                                             | `N`                |
 | `JumpToCurrentTrackInContext`  | jump to the current track in the context                          | `g c`              |
+| `JumpToSelectedTrackInPlaylist`| jump to the currently selected search result in the playlist      | `C-j`              |
 
 To add new shortcuts or modify the default shortcuts, please refer to the [keymaps section](docs/config.md#keymaps) in the configuration documentation.
 
